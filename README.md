@@ -21,12 +21,12 @@ npm install
 To bundle and execute the bundled version:
 ```
 npm run build
-Once all the files get bundled then build folder is created. After that double click and execute the index.html file.
+Build folder is created once all the files get bundled. After that double click and execute the index.html file from build folder.
 ```
 To develop further with dev server:
 ```
 npm run dev
 Run the http://localhost:8181/
-Here, any changes made in any of React components will be reflected in your terminal or command console along with the name of file where the changes were made.
+Number of changes made in any of React components will be reflected in the terminal or command console along with the name of file where an actual changes were made.
 ```
 
